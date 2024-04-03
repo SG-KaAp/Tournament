@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{eb7355f0-8e8f-4a7c-a5ac-208cae7dc5c6}">
+		<property name="assetPath">
+			<value>Game/Dictor/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{520dbb75-5337-48d3-8419-aa30256a722d}</destination>
+		</relationship>
+	</object>
+</objects>

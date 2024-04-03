@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{74f196ee-9fa2-4140-bf01-6fcca30cf9c8}">
+		<property name="assetPath">
+			<value>Game/Footsteps/tile1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.42451247165532879</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{520dbb75-5337-48d3-8419-aa30256a722d}</destination>
+		</relationship>
+	</object>
+</objects>
